@@ -1,2 +1,3 @@
 # chandan-pandit
-this is my first repositry
+this is my first repositry.
+author - golu pandit
